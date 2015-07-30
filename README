@@ -1,3 +1,7 @@
+NOTE: This repository is deprecated. It contains the old QEMU code prior to
+the uprev to 1.4. It is only here to support building of the legacy-ioemu. One
+day that branch will go away and so will this repo...
+
 Read the documentation in qemu-doc.html.
 
 Fabrice Bellard.
